@@ -20,7 +20,10 @@ const planetDetails = {
     'Terrestrial Planets': {
         title: 'Terrestrial Planets',
         content: 'Terrestrial planets are Earth-like rocky planets that have a solid surface. Some may be found in the habitable zone where conditions could support life.'
-    }
+    },
+    'Neptune-Like Planets':{
+        title: 'Neptune-like Planets',
+        content: 'Neptunian exoplanets are similar in size to Neptune or Uranus in our solar system. Neptunian planets typically have hydrogen and helium-dominated atmospheres with cores of rock and heavier metals.'
 };
 
 // Get elements for modal functionality
